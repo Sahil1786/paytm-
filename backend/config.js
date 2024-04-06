@@ -1,3 +1,3 @@
-const JWT_SECRET="sahilhos"
+const  JWT_SECRET="sahilhos"
 
-module.export =JWT_SECRET
+module.exports ={JWT_SECRET};
