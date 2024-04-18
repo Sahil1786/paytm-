@@ -36,3 +36,6 @@ This project is a simple payment application where users can transfer credits to
 To run this project locally, follow these steps:
 
 1. Clone this repository:
+2. https://github.com/Sahil1786/paytm-
+
+
